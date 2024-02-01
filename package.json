@@ -1,6 +1,6 @@
 {
-  "name": "fashion-web-stylenestle",
-  "private": true,
+  "name": "smart-investing",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
